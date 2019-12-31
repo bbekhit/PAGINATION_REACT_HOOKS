@@ -404,3 +404,13 @@ const Axios = () => {
 };
 
 export default Axios;
+
+
+// import axios from "axios";
+
+// export default axios.create({
+//   baseURL: "http://831e924e.ngrok.io"
+// });
+
+// import trackerApi from "../api/tracks";
+// const res = await trackerApi.post("/api/auth/signup", { email, password });
